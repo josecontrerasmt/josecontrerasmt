@@ -5,4 +5,4 @@
   - 📫 Pueden contactarme: 
       - Correo: josecontrerasmt@gmail.com
       - LinkedIn: https://www.linkedin.com/in/jose-contreras-martinez-34a4bb2ab/ 
-  - Portafolio: https://josecontrerasmt.github.io/Portafolio/
+  - Portafolio: https://josecontrerasmt.github.io/portafolio-web/
