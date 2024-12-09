@@ -3,8 +3,6 @@
   Soy un desarrollador de sitios web y diseñador UI/UX con experiencia en la creación de soluciones digitales personalizadas. Diseño y desarrollo páginas web atractivas, funcionales y de alta calidad que se adaptan a necesidades específicas.
   Como diseñador de UI/UX, mi enfoque es crear experiencias digitales atractivas y funcionales para los usuarios. Me especializo en el diseño de interfaces de usuario (UI) y en la creación de experiencias de usuario (UX) que sean intuitivas, accesibles y agradables.
 
-Habilidades
-
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
