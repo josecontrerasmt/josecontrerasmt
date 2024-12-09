@@ -22,6 +22,6 @@
 - ✅ Busco colaborar en proyectos de diseño y desarrollo web, apoyando con mis habilidades y cumpliendo con los objetivos.
 
 **Contacto** 
-- ✉️ josecontrerasmt@gmail.com
+- 📧 josecontrerasmt@gmail.com
 - 🌐 LinkedIn: https://www.linkedin.com/in/jose-contreras-martinez-34a4bb2ab/
 - 💼 Portafolio: https://josecontrerasmt.github.io/portafolio-web/
