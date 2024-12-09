@@ -15,9 +15,9 @@
 <img align="right" width="200px" alt="capoo" src="https://i.pinimg.com/originals/2c/27/d1/2c27d1186016923c8ebca12d9246dc16.gif" />
 
   
-- ✔️ Me interesa la programación, el desarrollo y diseño web e investigar de los avances tecnológicos. 
-- ✔️ Actualmente estoy aprendiendo Next Js ya que me interesa mucho continuar en el camino de desarrollador frontend.
-- ✔️ Busco colaborar en proyectos de diseño y desarrollo web, apoyando con mis habilidades y cumpliendo con los objetivos.
+- ✅ Me interesa la programación, el desarrollo y diseño web e investigar de los avances tecnológicos. 
+- ✅ Actualmente estoy aprendiendo Next Js ya que me interesa mucho continuar en el camino de desarrollador frontend.
+- ✅ Busco colaborar en proyectos de diseño y desarrollo web, apoyando con mis habilidades y cumpliendo con los objetivos.
 
 Contacto: 
 - ✉️ josecontrerasmt@gmail.com
